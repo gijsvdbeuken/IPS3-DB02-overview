@@ -42,10 +42,6 @@ Below, you'll discover all the relevant details regarding each aspect of my indi
 
 - [fxWizard Front-end](https://github.com/gijsvdbeuken/fxWizard-front-end)
 
-### fxWizard Back-end <a name="subheading-fxwizard-back-end"></a>
-
-- [fxWizard Back-end](https://github.com/gijsvdbeuken/fxWizard-back-end)
-
 ### fxWizard API <a name="subheading-fxwizard-api"></a>
 
-- [fxWizard API](https://github.com/gijsvdbeuken/fxWizard-API)
+- [fxWizard API](https://github.com/gijsvdbeuken/fxWizard-API-v2)
