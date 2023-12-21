@@ -26,6 +26,24 @@ This semester, I have developed a script tailored for Adobe After Effects. This 
 
 This project is primarily divided into two main components: the script and the web application. The script's primary function is to communicate with the web application, retrieving user-specific information for logged-in users. Given the rather specialized nature of the project I've been handling, I've opted to work on it independently. After all, a significant number of individuals at my school are not that familiar with After Effects, let alone its scripting language.
 
+### Technologies used <a name="technologies-used"></a>
+
+#### Front-end
+
+- ExtendScript
+- ReactJS
+- Vite
+- Vitest (unit-tests)
+- Axios
+
+#### Back-end
+
+- Node.js
+- Express
+- Mocha (unit-tests)
+- Axios
+- Bcrypt
+
 ## Project Content <a name="heading-project-content"></a>
 
 Below, you'll discover all the relevant details regarding each aspect of my individual project.
