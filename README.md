@@ -11,7 +11,6 @@ _Made by Gijs van den Beuken_
   - [fxWizard Documentation](#subheading-fxwizard-documentation)
   - [fxWizard Script](#subheading-fxwizard-script)
   - [fxWizard Front-end](#subheading-fxwizard-front-end)
-  - [fxWizard Back-end](#subheading-fxwizard-back-end)
   - [fxWizard API](#subheading-fxwizard-api)
 
 ## Introduction <a name="heading-introduction"></a>
