@@ -7,6 +7,7 @@ _Made by Gijs van den Beuken_
 - [Introduction](#heading-introduction)
 - [About the Project](#heading-about-the-project)
 - [Technologies Used](#heading-technologies-used)
+- [Definition of Ready](#heading-definition-of-ready)
 - [Definition of Done](#heading-definition-of-done)
 - [Setup for the Project](#heading-setup-for-the-project)
 - [Project Content](#heading-project-content)
