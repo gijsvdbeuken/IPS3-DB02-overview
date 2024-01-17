@@ -6,6 +6,8 @@ _Made by Gijs van den Beuken_
 
 - [Introduction](#heading-introduction)
 - [About the Project](#heading-about-the-project)
+- [Technologies Used](#heading-technologies-used)
+- [Definition of Done](#heading-definition-of-done)
 - [Setup for the Project](#heading-setup-for-the-project)
 - [Project Content](#heading-project-content)
   - [fxWizard Documentation](#subheading-fxwizard-documentation)
@@ -25,7 +27,7 @@ This semester, I have developed a script tailored for Adobe After Effects. This 
 
 This project is primarily divided into two main components: the script and the web application. The script's primary function is to communicate with the web application, retrieving user-specific information for logged-in users. Given the rather specialized nature of the project I've been handling, I've opted to work on it independently. After all, a significant number of individuals at my school are not that familiar with After Effects, let alone its scripting language.
 
-### Technologies used <a name="technologies-used"></a>
+### Technologies used <a name="heading-technologies-used"></a>
 
 #### Front-end
 
@@ -43,7 +45,41 @@ This project is primarily divided into two main components: the script and the w
 - Axios
 - Bcrypt
 
-# Definition of Done
+# Definition of Ready <a name="heading-definition-of-ready">
+
+1. **Acceptance Criteria:**
+
+   - Well-defined acceptance criteria are provided, outlining the conditions that must be met for the user story to be considered complete.
+
+2. **Dependencies:**
+
+   - Any external dependencies or prerequisites are identified and addressed before the user story is considered ready for implementation.
+
+3. **Prioritization:**
+
+   - The user story is appropriately prioritized in the product backlog to ensure it aligns with the overall project goals.
+
+4. **Estimation:**
+
+   - The development team has estimated the effort required to implement the user story, helping in sprint planning and resource allocation.
+
+5. **Design Information:**
+
+   - If applicable, necessary design information or wireframes are provided to guide the development process.
+
+6. **Test Data:**
+
+   - Any required test data or scenarios for quality assurance and testing are specified.
+
+7. **Definition of Done (DoD):**
+
+   - The Definition of Done for the user story is clearly established, outlining the criteria that must be met for the user story to be considered complete.
+
+8. **Stakeholder Approval:**
+
+   - The user story has been reviewed and approved by relevant stakeholders to ensure alignment with business objectives.
+
+# Definition of Done <a name="heading-definition-of-done">
 
 To consider a task as "done," it must meet the following criteria:
 
