@@ -44,6 +44,55 @@ This project is primarily divided into two main components: the script and the w
 - Axios
 - Bcrypt
 
+# Definition of Done
+
+To consider a task as "done," it must meet the following criteria:
+
+1. **Coding Standards:**
+
+   - Code follows the project's coding standards.
+   - Variable and function names are meaningful and follow naming conventions.
+
+2. **Testing:**
+
+   - Unit tests cover new code.
+   - Integration tests pass successfully.
+   - Code coverage is above 80%.
+
+3. **Documentation:**
+
+   - Code is adequately documented.
+
+4. **Code Review:**
+
+   - Code has been reviewed by at least one team member.
+   - All review comments have been addressed.
+
+5. **Functional Requirements:**
+
+   - The task meets all specified functional requirements.
+
+6. **No Critical Issues:**
+
+   - No critical bugs or issues are present.
+   - All known issues have been documented.
+
+7. **CI/CD Pipeline:**
+
+   - CI/CD pipeline runs successfully.
+
+8. **Dependencies:**
+
+   - All external dependencies are declared and versioned properly.
+
+9. **Accessibility and Performance:**
+
+   - Code complies with accessibility standards.
+   - Performance benchmarks are met.
+
+10. **Learning Outcomes:**
+    - The application meets the required standards.
+
 ## Project Content <a name="heading-project-content"></a>
 
 Below, you'll discover all the relevant details regarding each aspect of my individual project.
